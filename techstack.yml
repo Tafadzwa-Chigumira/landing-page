@@ -1,0 +1,188 @@
+repo_name: Tafadzwa-Chigumira/landing-page
+report_id: 5a2ed94169d142d6dd7fa04a8e4f9787
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-15T20:34:53+00:00'
+requested_by: Tafadzwa-Chigumira
+provider: github
+branch: master
+detected_tools_count: 14
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page
+  detection_source: Repo Metadata
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page/blob/master/client/package-lock.json
+  detection_source: client/package.json
+  last_updated_by: Tafadzwa
+  last_updated_on: 2024-06-15 17:28:54.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page/blob/master/client/package.json
+  detection_source: client/package.json
+  last_updated_by: Tafadzwa
+  last_updated_on: 2024-06-15 17:28:54.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page
+  detection_source: Repo Metadata
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page/blob/master/client/package.json
+  detection_source: client/package.json
+  last_updated_by: Tafadzwa
+  last_updated_on: 2024-06-15 17:28:54.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page/blob/master/client/package.json
+  detection_source: client/package.json
+  last_updated_by: Tafadzwa
+  last_updated_on: 2024-06-15 17:28:54.000000000 Z
+- name: Vercel
+  description: It makes serverless application deployment easy
+  website_url: https://vercel.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Static Web Hosting
+  image_url: https://img.stackshare.io/service/7618/bHjpwZem_400x400.png
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page/blob/master/client/vercel.json
+  detection_source: client/vercel.json
+  last_updated_by: Tafadzwa
+  last_updated_on: 2024-06-15 18:02:24.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page/blob/master/client/package-lock.json
+  detection_source: client/package.json
+  last_updated_by: Tafadzwa
+  last_updated_on: 2024-06-15 17:28:54.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page/blob/master/client/package-lock.json
+  detection_source: client/package.json
+  last_updated_by: Tafadzwa
+  last_updated_on: 2024-06-15 17:28:54.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.34.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page/blob/master/client/package-lock.json
+  detection_source: client/package.json
+  last_updated_by: Tafadzwa
+  last_updated_on: 2024-06-15 17:28:54.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page/blob/master/client/package-lock.json
+  detection_source: client/package.json
+  last_updated_by: Tafadzwa
+  last_updated_on: 2024-06-15 17:28:54.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page/blob/master/client/package-lock.json
+  detection_source: client/package.json
+  last_updated_by: Tafadzwa
+  last_updated_on: 2024-06-15 17:28:54.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 5.3.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/Tafadzwa-Chigumira/landing-page/blob/master/client/package-lock.json
+  detection_source: client/package.json
+  last_updated_by: Tafadzwa
+  last_updated_on: 2024-06-15 17:28:54.000000000 Z
