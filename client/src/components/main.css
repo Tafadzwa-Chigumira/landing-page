@@ -1,0 +1,33 @@
+.main {
+    background: white;
+    color: black;
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+
+}
+
+.main p {
+    font-size: 1.5em;
+    font-weight: bold;
+
+}
+
+.main button{
+  position: sticky;
+  border-radius: 30px;
+  border-bottom-right-radius: 0;
+  border-top-right-radius: 0;
+  background-color: #0f0092;
+  color: #FFF;
+  padding: 12px 25px;
+  display: inline-block;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 5px;
+  right: 30%;
+  bottom: -20px;
+  cursor: pointer;
+  transition: all .25s ease;
+  box-shadow: -5px 6px 20px 0px rgba(26, 26, 26, 0.4);
+}

@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  font-family: Schibsted Grotesk,sans-serif;
+
+}
+
+body{
+  background:url("./assets/img_6.png") no-repeat;
+  background-position: bottom center;
+  background-size: cover;
+}
